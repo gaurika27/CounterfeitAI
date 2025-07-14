@@ -1,5 +1,7 @@
 # 🛡️ CounterfeitAI — AI-Powered Fake Brand Detection System
 
+**🚀 Project Live:** [Visit the App]([https://thriving-axolotl-cbe8b8.netlify.app/](https://statuesque-puppy-b38f8b.netlify.app/))
+
 > A cutting-edge AI system designed to detect counterfeit Walmart product listings across social media platforms through visual recognition, caption analysis, and automated takedown reporting.
 
 ---
