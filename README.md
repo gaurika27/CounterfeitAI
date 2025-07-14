@@ -4,8 +4,12 @@
 
 ---
 
+
+
 ## **🚀 Project Live:**
 Visit the live site: [Click here](https://statuesque-puppy-b38f8b.netlify.app)
+
+
 
 ## 📌 Project Description
 
@@ -14,6 +18,8 @@ Visit the live site: [Click here](https://statuesque-puppy-b38f8b.netlify.app)
 This solution helps retail brands like **Walmart** preserve their brand integrity, reduce fraud, and take automated legal action in response to fake product listings.
 
 ---
+
+
 
 ## 🎯 Real-World Use Case
 
@@ -24,6 +30,8 @@ This solution helps retail brands like **Walmart** preserve their brand integrit
 - Brand team takes legal action via the generated DMCA forms.
 
 ---
+
+
 
 ## 🚀 Features
 
@@ -58,6 +66,8 @@ This solution helps retail brands like **Walmart** preserve their brand integrit
 
 ---
 
+
+
 ## 🧰 Tech Stack
 
 | Layer         | Tech Used                                                  |
@@ -70,6 +80,8 @@ This solution helps retail brands like **Walmart** preserve their brand integrit
 | Maps          | D3.js + react-simple-maps + GeoJSON                        |
 
 ---
+
+
 
 ## 🧩 System Architecture
 
@@ -85,6 +97,39 @@ This solution helps retail brands like **Walmart** preserve their brand integrit
 🖥️ Dashboard, Map, and Feedback Display
 
 ```
+
+
+
+## 📸 Screenshots
+
+### **📊 Dashboard Analytics**
+
+<img width="1881" height="1074" alt="image" src="https://github.com/user-attachments/assets/864189a5-c6ab-445f-9a2c-824ee809aed1" />
+
+
+### **🔍 AI Content Scanner**
+
+<img width="1896" height="729" alt="image" src="https://github.com/user-attachments/assets/752569d4-cd2f-427f-91c8-7e9c06f90c54" />
+
+
+### **🌍 Global Risk Heatmap**
+
+<img width="1273" height="1396" alt="image" src="https://github.com/user-attachments/assets/5fe6abf1-130b-4bb0-84f1-726bbc92e299" />
+
+
+### **📥 Takedown Management**
+
+<img width="1904" height="807" alt="image" src="https://github.com/user-attachments/assets/c1d64613-d0b6-4f30-8520-4c367c74c091" />
+
+
+### **💬 Feedback System**
+
+<img width="1566" height="1302" alt="image" src="https://github.com/user-attachments/assets/7ec96fb9-c4e1-49ae-b3c4-ba42a01948c8" />
+
+
+
+
+
 ## 🧑‍💻 Local Setup
 ```bash
 git clone https://github.com/gaurika27/CounterfeitAI.git
@@ -93,6 +138,9 @@ npm install
 npm run dev
 ```
 ⚠️ Node.js v18+ recommended. All detection data is simulated.
+
+
+
 
 ## 📂 Project Structure
 ```bash
@@ -122,9 +170,13 @@ CounterfeitAI/
     ├── tsconfig.app.json                # App-specific TS config
     ├── tsconfig.node.json               # Node-specific TS config
     └── vite.config.ts                   # Vite build and dev server config
-
 ```
 
 
 
 
+## 📌 Highlights
+  - ✅ Enterprise-grade simulation of brand security operations
+  - 🧠 AI + NLP fusion for counterfeit detection
+  - 🌐 Geospatial visualization of global brand risks
+  - 🛠️ Full-stack production-ready UI with modern tooling
