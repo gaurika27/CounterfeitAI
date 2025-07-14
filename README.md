@@ -4,7 +4,7 @@
 
 ---
 
-**🚀 Project Live:**
+## **🚀 Project Live:**
 Visit the live site: [Click here](https://statuesque-puppy-b38f8b.netlify.app)
 
 ## 📌 Project Description
