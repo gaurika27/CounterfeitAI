@@ -11,6 +11,11 @@ Visit the live site: [Click here](https://statuesque-puppy-b38f8b.netlify.app)
 
 
 
+## **Project Demo Video**
+[Click here]([https://statuesque-puppy-b38f8b.netlify.app](https://www.youtube.com/watch?v=2mxkNqkqzuw))
+
+
+
 ## 📌 Project Description
 
 **CounterfeitAI** is a full-stack AI-powered platform built to identify and mitigate fake brand content online. It simulates the brand protection process by detecting counterfeit product listings (via images, videos, and captions), analyzing trends, and generating takedown reports across platforms like Instagram, TikTok, Facebook, and YouTube.
