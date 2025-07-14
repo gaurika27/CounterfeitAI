@@ -12,7 +12,7 @@ Visit the live site: [Click here](https://statuesque-puppy-b38f8b.netlify.app)
 
 
 ## **Project Demo Video**
-[Click here]([https://statuesque-puppy-b38f8b.netlify.app](https://www.youtube.com/watch?v=2mxkNqkqzuw))
+[Click here](https://www.youtube.com/watch?v=2mxkNqkqzuw)
 
 
 
